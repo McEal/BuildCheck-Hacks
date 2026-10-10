@@ -1,0 +1,6 @@
+{
+  "name": "Neatlogs AI Agent Tracer",
+  "description": "AI Agent instrumented with Neatlogs observability and distributed tracing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
